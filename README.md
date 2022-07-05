@@ -8,12 +8,19 @@ I shall work through all the analysis phases : Ask , Prepare , Process , Analyze
 
 I'll be using MySQL SHELL and MySQL Workbench for data preperation, cleaning and analysis. and Tableau for visualization.
 
-My complete report is available to read  under "Full Report" file.
+My complete report is available to read  under "Full Report" file. 
 
 for further in-depth understanding of the scenario -please refer to the "case study" file .
+
+Thank you, Adi.
+
+
+#
+
+
 
 the data files for this analysis are available here : https://divvy-tripdata.s3.amazonaws.com/index.html
 
 
 
-Thank you, Adi.
+
