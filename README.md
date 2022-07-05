@@ -8,13 +8,13 @@ I shall work through all the analysis phases : Ask , Prepare , Process , Analyze
 
 I'll be using MySQL SHELL and MySQL Workbench for data preperation, cleaning and analysis. and Tableau for visualization.
 
-- My complete report is available to read  in the attached **"Full_report"** file.
+- My complete report is available in the attached **"Full_report"** file.
 
 - For further in-depth understanding of the scenario -please refer to the **"Case_Study-1"** file .
 
-- You can find my full SQL markdown in the **"Cyclistic_SQL"** file .
+- You can find my full SQL queries in the **"Cyclistic_SQL"** file .
 
-- I've also attached the Dashboard for the project **"Dashboard_1"** .
+- also attached is the Tableau Dashboard for the project - **"Dashboard_1"** file .
 
 Thank you, Adi.
 
