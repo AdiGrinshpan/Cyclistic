@@ -2,7 +2,7 @@
 
 This analysis project is the accumulation of the "Google Data Analytics Certificate" course.
 
-For this analysis i was given a task - to give my recommendations on how to convert casual users to membership users for a fictional bicycle share company ("Cyclistic").
+For this analysis i was given a task - to present my top recommendations on how to convert casual users to membership users for a fictional bicycle share company ("Cyclistic").
 
 I shall work through all the analysis phases : Ask , Prepare , Process , Analyze , Share and Act.
 
