@@ -12,7 +12,7 @@ I'll be using MySQL SHELL and MySQL Workbench for data preperation, cleaning and
 
 - For further in-depth understanding of the scenario -please refer to the **"Case_Study-1"** file .
 
-- You can find my full SQL markdown in the **"Cyclistic_markdown"** file .
+- You can find my full SQL markdown in the **"Cyclistic_SQL"** file .
 
 - I've also attached the Dashboard for the project **"Dashboard_1"** .
 
