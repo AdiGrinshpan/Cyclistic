@@ -8,7 +8,7 @@ I shall work through all the analysis phases : Ask , Prepare , Process , Analyze
 
 I'll be using MySQL SHELL and MySQL Workbench for data preperation, cleaning and analysis. and Tableau for visualization.
 
-- My complete report is available in the attached **"Full_report"** file.
+- My complete report is available in the attached [**"Full_report"**](Full_report.pdf) file.
 
 - For further in-depth understanding of the scenario -please refer to the **"Case_Study-1"** file .
 
