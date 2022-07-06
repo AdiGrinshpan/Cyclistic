@@ -6,7 +6,7 @@ For this analysis i was given a task - to present my top recommendations on how 
 
 I shall work through all the analysis phases : Ask , Prepare , Process , Analyze , Share and Act.
 
-I'll be using MySQL SHELL and MySQL Workbench for data preperation, cleaning and analysis. and Tableau for visualization.
+I'll be using **MySQL SHELL** and **MySQL Workbench** for data preperation, cleaning and analysis. and **Tableau** for visualization.
 
 - My complete report is available in the attached [**"Full_report"**](Full_report.pdf) file.
 
