@@ -12,7 +12,7 @@ I'll be using MySQL SHELL and MySQL Workbench for data preperation, cleaning and
 
 - For further in-depth understanding of the scenario -please refer to the [**"Case_Study-1"**](Case-Study-1.pdf) file .
 
-- You can find my full SQL queries in the **"Cyclistic_SQL"** file .
+- You can find my full SQL queries in the [**"Cyclistic_SQL"**](Cyclistic_SQL.sql) file .
 
 - also attached is the Tableau Dashboard for the project - **"Dashboard_1"** file .
 
