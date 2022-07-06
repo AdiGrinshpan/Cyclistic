@@ -10,7 +10,7 @@ I'll be using MySQL SHELL and MySQL Workbench for data preperation, cleaning and
 
 - My complete report is available in the attached [**"Full_report"**](Full_report.pdf) file.
 
-- For further in-depth understanding of the scenario -please refer to the **"Case_Study-1"** file .
+- For further in-depth understanding of the scenario -please refer to the [**"Case_Study-1"**](Case-Study-1.pdf) file .
 
 - You can find my full SQL queries in the **"Cyclistic_SQL"** file .
 
