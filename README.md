@@ -14,7 +14,7 @@ I'll be using MySQL SHELL and MySQL Workbench for data preperation, cleaning and
 
 - You can find my full SQL queries in the [**"Cyclistic_SQL"**](Cyclistic_SQL.sql) file .
 
-- also attached is the Tableau Dashboard for the project - **"Dashboard_1"** file .
+- also attached is the Tableau Dashboard for the project - [**"Dashboard_1"**](Dashboard_1.png) file .
 
 Thank you, Adi.
 
