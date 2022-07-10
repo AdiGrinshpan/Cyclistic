@@ -16,6 +16,8 @@ I'll be using **MySQL SHELL** and **MySQL Workbench** for data preperation, clea
 
 - also attached is the Tableau Dashboard for the project - [**"Dashboard_1"**](Dashboard_1.png) file .
 
+- Work in progress Info-Graphic [here](https://www.canva.com/design/DAFF5aIZ5AI/mmHNG3rRVfEeHb3-CGiV6g/view?utm_content=DAFF5aIZ5AI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
 Thank you, Adi.
 
 
